@@ -1,0 +1,162 @@
+header{
+    background: #202020;
+    color: white;
+    padding: 0.5em;
+    overflow: hidden;
+
+}
+
+header figure{
+    float: left;
+
+}
+
+header #logo img{
+    width: 80px;
+
+}
+
+header #carrito img{
+    width: 100px;
+    
+}
+
+header #fluxo img{
+    width: 10%;
+}
+
+aside #img-producto img{
+    width: 15%;
+}
+
+aside #productoo img{
+    width: 40%;
+}
+ aside #producto img{
+    width: 50%;
+ }
+aside #color-verde img{
+    width: 180%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+aside #color-claro img{
+    width: 180%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+aside #color-azul img{
+    width: 180%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+aside #colores-producto img{
+    width: 50%;
+}
+
+aside #Carro img{
+    width: 40%;
+}
+
+aside #Compu img{
+    width: 40%;
+}
+
+aside #Bolso img{
+   width: 40%;
+}
+
+aside #Moto img{
+    width: 40%;
+}
+
+
+aside #Logo img{
+    margin-left: 800px;
+    margin-right: 600px;
+}
+
+aside #Colores img{
+    margin-left: 470px;
+    margin-right: 470px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+
+h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+
+h3{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+h4{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    
+}
+#nav{
+    border: 3px solid white;
+    text-align: center;
+    background-color: rgba(110, 85, 44, 0.3);
+    width: auto;
+    margin: auto;
+}
+
+p{
+    text-align: center;
+    margin: 50px;
+}
+
+.boton1{
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 200px;
+    font-size: 20px;
+}
+
+.boton2{
+    display: inline-block;
+    margin-right: 200px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+p #Link{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+footer{
+    background: #202020;
+    color: white;
+    padding: 0.5em;
+    overflow: hidden;
+}
